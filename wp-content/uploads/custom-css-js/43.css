@@ -1,0 +1,15 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+#header-nav {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    transition: all .3s;
+}
+#footer-icons {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    transition: all .3s;
+}</style>
+<!-- end Simple Custom CSS and JS -->
