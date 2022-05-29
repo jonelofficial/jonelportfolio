@@ -11,5 +11,23 @@
     bottom: 0;
     width: 100%;
     transition: all .3s;
+}
+
+#projects-card h3 {
+	font-family: "Roboto", Sans-serif;
+    font-size: 22px;
+    font-weight: 600;
+}
+#projects-card p {
+  font-family: "Roboto Slab", Sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+}
+#projects-card:hover img {
+	opacity: .6;
+	transition: all .3s;
+}
+#projects-wrapper {
+	margin-top: 100px;
 }</style>
 <!-- end Simple Custom CSS and JS -->
